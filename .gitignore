@@ -1,0 +1,4 @@
+gopher/gopher
+*.o
+gopherd/gopherd
+
